@@ -14,6 +14,8 @@
 
 > python API.py
 
+![API that send files to client] (/home/malik/Pictures/1.png)
+
 **Execute Image_receiving_Monitor.py cile usin follwoing command**
 
 > python Image_receiving_Monitor.py
