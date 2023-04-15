@@ -2,13 +2,13 @@
 **Continuously monitors a folder and respond to client when receives file in dedicated folder**
 
 
-Unzip file
+**Unzip file**
 
-Open terminal and switch to API_V2 directory
+**Open terminal and switch to API_V2 directory**
 
-Install required libraries using following command
+**Install required libraries using following command**
 
-pip install -r requirement.txt
+> pip install -r requirement.txt
 
 Execute API.py file using following command
 
