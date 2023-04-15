@@ -1,4 +1,4 @@
-# Folder Monitor API
+# Folder Monitoring API
 **Continuously monitors a folder and respond to client when receives file in dedicated folder**
 
 
