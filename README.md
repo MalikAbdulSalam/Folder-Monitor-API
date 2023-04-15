@@ -10,14 +10,16 @@
 
 > pip install -r requirement.txt
 
-Execute API.py file using following command
+**Execute API.py file using following command**
 
-python API.py
+> python API.py
 
-Execute Image_receiving_Monitor.py cile usin follwoing command
+**Execute Image_receiving_Monitor.py cile usin follwoing command**
 
-python Image_receiving_Monitor.py
+> python Image_receiving_Monitor.py
 
-When ever you copy any file inside Image_receiving_folder folder than your Model.py file will be executed and response will be sent to client on following URL
-http://0.0.0.0:8000/files
+**When ever you copy any file inside Image_receiving_folder folder than your Model.py file will be executed and response will be sent to client on following URL**
+
+
+> http://0.0.0.0:8000/files
 
